@@ -7,7 +7,7 @@ The VRChat Creator Companion (VCC) provides everything you need for creating VRC
 - **[VRChat Package Manager](vpm) (VPM)** - Manage your VRChat packages easily.
 - **[Official packages](/vpm/packages)** - VRChat's SDK for creating worlds and avatars in Unity.
 - **[Community packages](vpm/curated-community-packages)** - Access tools and assets created by other users.
-- **Learning resources & Tools** - Get tutorials, links, and the [Quick Launcher](https://docs.vrchat.com/docs/vrc-quick-launcher).
+- **Learning resources & Tools** - Get tutorials, links, and the [Quick Launcher](h
 
 Watch the video below to learn how to get started.
 
